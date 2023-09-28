@@ -484,6 +484,28 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
+--- !u!114 &-2023911990051975518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d4a9b48c08843ee9943e71ecb47034, type: 3}
+  m_Name: MagicLeapFeature Android
+  m_EditorClassIdentifier: 
+  m_enabled: 1
+  nameUi: Magic Leap 2 Support
+  version: 1.0.0
+  featureIdInternal: com.magicleap.openxr.feature.ml2
+  openxrExtensionStrings: XR_ML_compat XR_ML_frame_end_info XR_ML_global_dimmer XR_EXT_view_configuration_depth_range
+    XR_KHR_convert_timespec_time
+  company: Magic Leap
+  priority: 0
+  required: 0
+  enableMLAudio: 0
 --- !u!114 &-1487959199633112123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -561,7 +583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f647cc0545697264a9878224faada6d5, type: 3}
   m_Name: MetaQuestFeature Android
   m_EditorClassIdentifier: 
-  m_enabled: 1
+  m_enabled: 0
   nameUi: Meta Quest Support
   version: 1.0.0
   featureIdInternal: com.unity.openxr.feature.metaquest
@@ -594,6 +616,46 @@ MonoBehaviour:
   features: []
   m_renderMode: 1
   m_depthSubmissionMode: 0
+--- !u!114 &1164743626632416863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a068fd8a4144443b50d06f6f964824, type: 3}
+  m_Name: MagicLeapControllerProfile Standalone
+  m_EditorClassIdentifier: 
+  m_enabled: 0
+  nameUi: Magic Leap 2 Controller Interaction Profile
+  version: 1.0.0
+  featureIdInternal: com.magicleap.openxr.feature.input.ml2controllerprofile
+  openxrExtensionStrings: XR_ML_ml2_controller_interaction
+  company: Magic Leap
+  priority: 0
+  required: 0
+--- !u!114 &1410292216858385637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a068fd8a4144443b50d06f6f964824, type: 3}
+  m_Name: MagicLeapControllerProfile Android
+  m_EditorClassIdentifier: 
+  m_enabled: 1
+  nameUi: Magic Leap 2 Controller Interaction Profile
+  version: 1.0.0
+  featureIdInternal: com.magicleap.openxr.feature.input.ml2controllerprofile
+  openxrExtensionStrings: XR_ML_ml2_controller_interaction
+  company: Magic Leap
+  priority: 0
+  required: 0
 --- !u!114 &1479897323088787677
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1001,6 +1063,28 @@ MonoBehaviour:
   required: 0
   cacheSize: 1048576
   perThreadCacheSize: 51200
+--- !u!114 &7477455461561272446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d4a9b48c08843ee9943e71ecb47034, type: 3}
+  m_Name: MagicLeapFeature Standalone
+  m_EditorClassIdentifier: 
+  m_enabled: 0
+  nameUi: Magic Leap 2 Support
+  version: 1.0.0
+  featureIdInternal: com.magicleap.openxr.feature.ml2
+  openxrExtensionStrings: XR_ML_compat XR_ML_frame_end_info XR_ML_global_dimmer XR_EXT_view_configuration_depth_range
+    XR_KHR_convert_timespec_time
+  company: Magic Leap
+  priority: 0
+  required: 0
+  enableMLAudio: 0
 --- !u!114 &7857441528894569134
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1033,7 +1117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: feeef8d85de8db242bdda70cc7ff5acd, type: 3}
   m_Name: OculusTouchControllerProfile Android
   m_EditorClassIdentifier: 
-  m_enabled: 1
+  m_enabled: 0
   nameUi: Oculus Touch Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.oculustouch

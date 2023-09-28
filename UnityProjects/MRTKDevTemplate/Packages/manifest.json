@@ -2,6 +2,8 @@
   "dependencies": {
     "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git#v4.8.3",
     "com.atteneder.ktx": "https://github.com/atteneder/KtxUnity.git#v2.1.2",
+    "com.magicleap.soundfield": "3.4.3-231005.79.bbd43ae",
+    "com.magicleap.unitysdk": "1.12.1",
     "com.microsoft.mixedreality.openxr": "file:../../../ExternalDependencies/com.microsoft.mixedreality.openxr-1.7.0.tgz",
     "com.microsoft.mixedreality.visualprofiler": "https://github.com/microsoft/VisualProfiler-Unity.git#v2.2.0",
     "com.microsoft.mrtk.graphicstools.unity": "https://github.com/microsoft/MixedReality-GraphicsTools-Unity.git?path=/com.microsoft.mrtk.graphicstools.unity#v0.5.14",
@@ -83,5 +85,14 @@
     "org.mixedrealitytoolkit.uxcomponents.noncanvas",
     "org.mixedrealitytoolkit.uxcore",
     "org.mixedrealitytoolkit.windowsspeech"
+  ],
+  "scopedRegistries": [
+    {
+      "name": "Magic Leap",
+      "url": "http://registry.npmjs.org",
+      "scopes": [
+        "com.magicleap"
+      ]
+    }
   ]
 }
