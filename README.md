@@ -1,3 +1,7 @@
+# Magic Leap MRTK3 plus Spectator
+
+This branch demonstrates the MRTK3 Dev Template project with [Magic Leap Spectator](https://www.magicleap.care/hc/en-us/articles/22350469887117-Magic-Leap-Spectator-User-Guide) integration running on the Magic Leap 2.
+
 # Mixed Reality Toolkit for Unity
 
 ![Mixed Reality Toolkit](./Images/MRTK_Unity_header.png)
