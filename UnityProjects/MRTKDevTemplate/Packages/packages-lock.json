@@ -348,22 +348,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.xr.magicleap": {
-      "version": "7.0.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.screencapture": "1.0.0",
-        "com.unity.modules.vr": "1.0.0",
-        "com.unity.modules.xr": "1.0.0",
-        "com.unity.ugui": "1.0.0",
-        "com.unity.xr.arfoundation": "5.0.0-pre.12",
-        "com.unity.xr.interactionsubsystems": "2.0.0",
-        "com.unity.xr.management": "4.2.0",
-        "com.unity.modules.androidjni": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
     "com.unity.xr.management": {
       "version": "4.4.0",
       "depth": 2,
