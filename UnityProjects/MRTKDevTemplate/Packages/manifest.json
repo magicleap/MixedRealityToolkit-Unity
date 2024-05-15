@@ -2,6 +2,7 @@
   "dependencies": {
     "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git#v4.8.3",
     "com.atteneder.ktx": "https://github.com/atteneder/KtxUnity.git#v2.1.2",
+    "com.magicleap.mrtk3": "1.0.0",
     "com.magicleap.soundfield": "3.4.4-231122.68.6849fab",
     "com.magicleap.unitysdk": "2.2.0",
     "com.microsoft.mixedreality.openxr": "file:../../../ExternalDependencies/com.microsoft.mixedreality.openxr-1.10.0.tgz",

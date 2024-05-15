@@ -1214,12 +1214,12 @@ MonoBehaviour:
   m_Name: MagicLeapPixelSensorFeature Android
   m_EditorClassIdentifier: 
   m_enabled: 0
-  nameUi: 
-  version: 
-  featureIdInternal: 
-  openxrExtensionStrings: 
-  company: 
-  priority: 0
+  nameUi: Magic Leap 2 Pixel Sensor
+  version: 1.0.0
+  featureIdInternal: com.magicleap.openxr.feature.ml2_pixel_sensor
+  openxrExtensionStrings: XR_ML_pixel_sensor XR_EXT_future
+  company: Magic Leap
+  priority: -2
   required: 0
 --- !u!114 &-3683332027321923100
 MonoBehaviour:
@@ -1623,11 +1623,11 @@ MonoBehaviour:
   - {fileID: 826953337473334590}
   - {fileID: -8768083647323170449}
   - {fileID: -1791638841354073639}
-  - {fileID: -2410936385564680694}
+  - {fileID: 2781501935482335357}
   - {fileID: -7863269254541335239}
   - {fileID: -594297483855231009}
   - {fileID: 4243950226450372225}
-  - {fileID: -1019003254944790399}
+  - {fileID: -3963179051977326357}
   - {fileID: -44362192750777090}
   - {fileID: 7140240580795545846}
   - {fileID: 9017529340652503889}
@@ -3086,12 +3086,12 @@ MonoBehaviour:
   m_Name: MagicLeapLightEstimationFeature Android
   m_EditorClassIdentifier: 
   m_enabled: 0
-  nameUi: 
-  version: 
-  featureIdInternal: 
-  openxrExtensionStrings: 
-  company: 
-  priority: 0
+  nameUi: Magic Leap 2 Light Estimation
+  version: 1.0.0
+  featureIdInternal: com.magicleap.openxr.feature.ml2_lightestimation
+  openxrExtensionStrings: XR_ML_light_estimation
+  company: Magic Leap
+  priority: -1
   required: 0
 --- !u!114 &3134151582273165400
 MonoBehaviour:
