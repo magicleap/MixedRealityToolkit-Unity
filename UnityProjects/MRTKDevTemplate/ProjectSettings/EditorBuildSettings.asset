@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/HandInteractionExamples.unity
+    guid: 1300a9dceb058844b865199dcd557fc7
+  - enabled: 1
     path: Assets/Scenes/BoundsControlExamples.unity
     guid: 384e6c80fec551842a329aa6fdb67c00
   - enabled: 1
@@ -47,9 +50,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FontIconExample.unity
     guid: a3ce810af8da0ff438d98e8ebac2f69c
-  - enabled: 1
-    path: Assets/Scenes/HandInteractionExamples.unity
-    guid: 1300a9dceb058844b865199dcd557fc7
   - enabled: 1
     path: Assets/Scenes/HandMenuExamples.unity
     guid: 160f5fe1138c53249862f20e854a6edd
@@ -123,5 +123,6 @@ EditorBuildSettings:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 87467803e919cef4394e7f39c6521b51, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: e61946fb8f8ff5e418d6ebb56cca2034, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4ce0884cff002f24f83e8b0ceef94646, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: e8d14dd81048e934ca61580ae72a4a3c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 90a3b98e6a849104285d1183acd66c0b, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a03b04948b0cbde4498320e6e1bd5cd6, type: 2}
