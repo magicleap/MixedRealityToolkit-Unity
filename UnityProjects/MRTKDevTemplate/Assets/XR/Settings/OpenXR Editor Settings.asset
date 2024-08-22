@@ -18,4 +18,6 @@ MonoBehaviour:
     - com.microsoft.openxr.featureset.wmr
   - featureSets:
     - com.microsoft.openxr.featureset.hololens
-  - featureSets: []
+  - featureSets:
+    - com.magicleap.openxr.featuregroup
+  m_vulkanAdditionalGraphicsQueue: 0
