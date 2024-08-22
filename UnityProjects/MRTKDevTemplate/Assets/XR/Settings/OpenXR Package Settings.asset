@@ -340,7 +340,7 @@ MonoBehaviour:
   company: Magic Leap
   priority: 0
   required: 0
-  perceptionSnapshots: 0
+  perceptionSnapshots: 1
   farClipPolicy: 2
   nearClipPolicy: 1
 --- !u!114 &-4270742991566126954
