@@ -11,6 +11,7 @@
 # ===================================== #
 .vs/
 .vsconfig
+.utmp/
 ExportedObj/
 obj/
 *.svd
