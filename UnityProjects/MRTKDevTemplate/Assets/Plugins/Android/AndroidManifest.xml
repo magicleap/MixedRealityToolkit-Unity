@@ -15,4 +15,6 @@
   <uses-permission android:name="com.magicleap.permission.SPATIAL_MAPPING" />
   <uses-permission android:name="com.magicleap.permission.HAND_TRACKING" />
   <uses-permission android:name="com.magicleap.permission.VOICE_INPUT" />
+  <uses-permission android:name="com.magicleap.permission.MARKER_TRACKING" />
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
 </manifest>

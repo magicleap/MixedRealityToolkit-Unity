@@ -4,6 +4,7 @@
     "com.atteneder.ktx": "https://github.com/atteneder/KtxUnity.git#v2.1.2",
     "com.magicleap.mrtk3": "1.4.0",
     "com.magicleap.soundfield": "3.4.9-241114.78.099e091",
+    "com.magicleap.spectator": "1.3.7",
     "com.magicleap.unitysdk": "2.6.0",
     "com.microsoft.mixedreality.openxr": "file:../../../ExternalDependencies/com.microsoft.mixedreality.openxr-1.10.0.tgz",
     "com.microsoft.mixedreality.visualprofiler": "https://github.com/microsoft/VisualProfiler-Unity.git#v2.2.0",
