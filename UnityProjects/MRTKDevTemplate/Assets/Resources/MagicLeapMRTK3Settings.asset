@@ -179,7 +179,7 @@ MonoBehaviour:
   rigConfig: {fileID: 3463837386347406388}
   openXRGeneralSettings: {fileID: 7478748383820318123}
   openXRRigConfig: {fileID: -4827965124873877724}
-  SelectedXRProvider: 0
+  SelectedXRProvider: 1
 --- !u!114 &135268205568178256
 MonoBehaviour:
   m_ObjectHideFlags: 0
