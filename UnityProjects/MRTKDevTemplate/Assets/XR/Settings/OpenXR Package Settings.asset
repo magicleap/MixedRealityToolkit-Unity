@@ -419,7 +419,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.XR.OpenXR:UnityEngine.XR.OpenXR:OpenXRSettings
   features: []
   m_renderMode: 1
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
   m_depthSubmissionMode: 0
+  m_optimizeBufferDiscards: 0
   m_symmetricProjection: 0
 --- !u!114 &-7351299395088533528
 MonoBehaviour:
@@ -3378,7 +3382,11 @@ MonoBehaviour:
   - {fileID: -7486088015011131707}
   - {fileID: 8482458925014085411}
   m_renderMode: 1
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
   m_depthSubmissionMode: 0
+  m_optimizeBufferDiscards: 0
   m_symmetricProjection: 0
 --- !u!114 &2781501935482335357
 MonoBehaviour:
