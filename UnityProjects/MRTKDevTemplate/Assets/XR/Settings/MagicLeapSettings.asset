@@ -15,4 +15,4 @@ MonoBehaviour:
   m_DepthPrecision: 0
   m_ForceMultipass: 0
   m_HeadlockGraphics: 0
-  m_EnableMLAudio: 0
+  m_EnableMLAudio: 1
