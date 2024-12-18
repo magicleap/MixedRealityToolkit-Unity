@@ -218,7 +218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7107f4296adb0497caaacdeec606c190, type: 3}
   m_Name: MagicLeapSystemNotificationsFeature Android
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Magic Leap 2 System Notification Control
   version: 1.0.0
   featureIdInternal: com.magicleap.openxr.feature.ml2_systemnotification
@@ -573,7 +573,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b263bfa84f8e34d46bc7293680ad3d82, type: 3}
   m_Name: MagicLeapSpatialAnchorsFeature Android
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Magic Leap 2 Spatial Anchor Subsystem
   version: 1.0.0
   featureIdInternal: com.magicleap.openxr.feature.ml2_spatialanchor
@@ -1165,7 +1165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78dd111ab9872144c9ea2d30e138bec4, type: 3}
   m_Name: MagicLeapEyeTrackerFeature Android
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Magic Leap 2 Eye Tracker
   version: 1.0.0
   featureIdInternal: com.magicleap.openxr.feature.ml2_eyetracker
@@ -1556,7 +1556,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be4414b393e32144b91a70d63254a4b2, type: 3}
   m_Name: MagicLeapSpatialAnchorsStorageFeature Android
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Magic Leap 2 Spatial Anchors Storage
   version: 1.0.0
   featureIdInternal: com.magicleap.openxr.feature.ml2_spatialanchorstorage
@@ -1636,7 +1636,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92ae4f5c3c8c48c281129f06fbf60316, type: 3}
   m_Name: MagicLeapReprojectionFeature Android
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Magic Leap 2 Reprojection
   version: 1.0.0
   featureIdInternal: com.magicleap.openxr.feature.ml2_reprojection
